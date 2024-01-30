@@ -121,7 +121,7 @@ fun CreateBizCard(){
 private fun CreateInfo() {
     Column(modifier = Modifier.padding(5.dp)) {
         Text(
-            text = "Manuel A. Hernandez C.",
+            text = "Manuel A. Hernández C.",
             color = MaterialTheme.colorScheme.primary,
             style = MaterialTheme.typography.headlineMedium
         )
